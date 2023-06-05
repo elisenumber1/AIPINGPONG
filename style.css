@@ -1,4 +1,11 @@
-body
-{
+body{
+	
+}
 
+.p5Canvas {
+	width: 700px;
+	height: 600px;
+	border: 2px solid white;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px;
 }
